@@ -1,0 +1,42 @@
+{
+    "cache_server1": {
+        "file1": {
+            "full_path": "/series/action/fauda/s1/",
+            "file_name": "episode_1",
+            "volume": "2.7GB",
+            "status": "available"
+        },
+        "file2": {
+            "full_path": "/series/action/fauda/s1/",
+            "file_name": "episode_2",
+            "volume": "2.6GB",
+            "status": "available"
+        },
+        "file3": {
+            "full_path": "/series/action/fauda/s1/",
+            "file_name": "episode_3",
+            "volume": "2.3GB",
+            "status": "not available"
+        }
+    },
+    "cache_server2": {
+        "file1": {
+            "full_path": "/series/action/fauda/s1/",
+            "file_name": "episode_1",
+            "volume": "2.7GB",
+            "status": "available"
+        },
+        "file2": {
+            "full_path": "/series/action/fauda/s1/",
+            "file_name": "episode_2",
+            "volume": "2.6GB",
+            "status": "available"
+        },
+        "file3": {
+            "full_path": "/series/action/fauda/s1/",
+            "file_name": "episode_3",
+            "volume": "2.3GB",
+            "status": "not available"
+        }
+    }
+}

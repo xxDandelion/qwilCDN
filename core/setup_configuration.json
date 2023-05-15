@@ -1,0 +1,46 @@
+{
+    "origin_server": {
+        "origin_server1": {
+            "address": "100.25.17.12",
+            "key_file_name": "origin-server-key.pem",
+            "login": "test_user",
+            "password": "*****"
+        }
+    },
+    "cache_servers": {
+        "cache_servers1": {
+            "type": "aws",
+            "address": "100.25.17.12",
+            "key_file_name": "origin-server-key.pem",
+            "login": "test_user",
+            "password": "*****"
+        },
+        "cache_servers2": {
+            "type": "internal",
+            "address": "10.122.2.12",
+            "key_file_name": "s2-ssh-key",
+            "login": "test_user",
+            "password": "*****"
+        }
+    },
+    "monitor": {
+        "monitor1": {
+            "address": "12.25.17.12",
+            "key_file_name": "monitor-key.pem",
+            "login": "test_user",
+            "password": "*****"
+        }
+    },
+    "router": {
+        "router1": {
+            "address": "13.25.17.12"
+        }
+    },
+    "client": {
+        "client1": {
+            "address": "192.25.17.12",
+            "login": "test_user",
+            "password": "*****"
+        }
+    }
+}
